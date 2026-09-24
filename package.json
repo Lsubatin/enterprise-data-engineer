@@ -1,0 +1,32 @@
+{
+  "name": "enterprise-data-engineer",
+  "version": "1.0.0",
+  "description": "Enterprise Data Engineering skills for Antigravity and Claude Code",
+  "license": "Apache-2.0",
+  "author": "Lucia Subatin",
+  "type": "module",
+  "bin": {
+    "enterprise-data-engineer": "./bin/install.mjs"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    ".claude-plugin/",
+    "plugin.json",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lsubatin/enterprise-data-engineer.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "skills",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "data-engineering",
+    "bigquery",
+    "sample-data"
+  ]
+}

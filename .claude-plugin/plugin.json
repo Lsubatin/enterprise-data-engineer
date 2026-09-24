@@ -1,0 +1,12 @@
+{
+  "name": "enterprise-data-engineer",
+  "description": "Enterprise Data Engineering skills for AI coding agents (Antigravity, Claude Code, and more).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucia Subatin"
+  },
+  "license": "Apache-2.0",
+  "skills": [
+    "./skills/generate-sample-data"
+  ]
+}
